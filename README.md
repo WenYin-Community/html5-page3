@@ -1,6 +1,7 @@
 # html5-page3
+
 Hi. This is Verti. It's a free responsive site template by HTML5 UP.
-Verti by HTML5 UP
+**Verti by HTML5 UP**
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
@@ -12,20 +13,19 @@ you can use for pretty much whatever.
 
 (* = Not included)
 
-Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
+* Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
 
 AJ
 aj@lkn.io | @ajlkn
 
-
 # Credits:
 
-	Demo Images:
+Demo Images:
 		Unsplash (unsplash.com)
 
-	Icons:
+Icons:
 		Font Awesome (fontawesome.io)
 
-	Other:
+Other:
 		jQuery (jquery.com)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
